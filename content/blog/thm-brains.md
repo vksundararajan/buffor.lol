@@ -42,7 +42,7 @@ To answer this, I needed to look for events indicating the creation of a new use
 
 > host=brains "shell=/bin"
 
-![Image](/images/thm-brains/1.png)
+![Image](/images/thm-brains/6.png)
 
 II. What is the name of the **malicious-looking package installed** on the server?
 
