@@ -26,7 +26,7 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo --minify --cleanDestinationDir --baseURL "https://vksundararajan.github.io/buffor.lol/"
+        run: hugo --minify --cleanDestinationDir --baseURL "https://vksundararajan.github.io/VIBE/"
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4

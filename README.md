@@ -1,4 +1,4 @@
-# buffor.lol
+# VIBE
 
 🛠️ **Site Under Construction**
 

@@ -6,7 +6,7 @@ A precise log of what’s broken, bypassed, and built.
 
 A personal space to write, reflect, and build clarity — no noise, no filters. Just raw thoughts, and everything that matters to me, in one place.
 
-— Built for clarity. Written for no one but myself.
+VIBE – <b>V</b>igneshwar’s <b>I</b>nsightful <b>B</b>logs & <b>E</b>xperiences. 
 
 ### Most recent posts
 {{< recent-posts >}}

@@ -1,6 +1,6 @@
-baseURL = "https://vksundararajan.github.io/buffor.lol/"
+baseURL = "https://vksundararajan.github.io/VIBE/"
 languageCode = "en-us"
-title = "Buffor // Books"
+title = "VIBE"
 theme = "hugo-bearblog"
 enableEmoji = true
 canonifyURLs = true
